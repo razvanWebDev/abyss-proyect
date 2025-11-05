@@ -1,0 +1,32 @@
+========================================
+HERO IMAGE INSTRUCTIONS
+========================================
+
+Place your hero background image in this folder with the name:
+📷 hero.jpg
+
+Requirements:
+=============
+✅ File name: hero.jpg (exactly)
+✅ Format: JPG or JPEG
+✅ Recommended size: 1920x1080px or larger
+✅ Aspect ratio: 16:9 (landscape/wide)
+✅ File size: Keep under 500KB for fast loading
+
+Tips for Best Results:
+=====================
+- Choose a high-quality, professional image
+- Ensure good contrast (image will have blue/dark overlay)
+- Horizontal/landscape orientation works best
+- Image will be centered and cover full screen
+- Consider text readability (left side is best for main subject)
+
+Current Path:
+============
+C:\MY_PROJECTS\abyss-proyect\assets\hero.jpg
+
+Alternative Formats:
+===================
+If you need to use PNG format, you can rename your file to hero.jpg
+or update the CSS file (styles.css line 163) to use:
+background-image: url('../assets/hero.png');

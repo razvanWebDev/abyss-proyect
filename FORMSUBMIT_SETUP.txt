@@ -1,0 +1,46 @@
+========================================
+FORMSUBMIT.CO SETUP INSTRUCTIONS
+========================================
+
+Your contact form is now configured to use FormSubmit.co!
+
+IMPORTANT: One-Time Activation Required
+========================================
+
+When someone submits the form for the FIRST TIME, FormSubmit will send a verification email to:
+📧 crsn_razvan@yahoo.com
+
+Steps to activate:
+1. Upload the website to your hosting/server
+2. Fill out the contact form and submit it (use real data)
+3. Check the inbox for crsn_razvan@yahoo.com
+4. Click the verification link in the email
+5. Done! All future submissions will be sent directly to your email
+
+Features Enabled:
+================
+✅ CAPTCHA protection (prevents spam bots)
+✅ Professional table format for emails
+✅ Subject line: "Mesaj nou de pe site-ul ABYSS PROIECT"
+
+What You'll Receive:
+===================
+Every form submission will arrive in your email with:
+- Name (Nume)
+- Email address
+- Phone number (Telefon)
+- Message (Mesaj)
+
+Switching Email Later:
+=====================
+If you want to change to office@abyss-srl.com later, simply:
+1. Edit index.html line 269
+2. Change the email in the action URL
+3. Submit the form once to verify the new email
+
+No Backend Required:
+===================
+This solution requires NO PHP, NO database, NO server configuration.
+It works with any hosting including static hosting (GitHub Pages, Netlify, etc.)
+
+Support: https://formsubmit.co/
